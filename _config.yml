@@ -1,5 +1,5 @@
-title: [TEST]
-description: [one page test]
-remote_theme: pages-themes/midnight@v0.2.0
+title: TEST
+description: one page test
+remote_theme: "jekyll/minima@1e8a445"
 plugins:
 - jekyll-remote-theme
